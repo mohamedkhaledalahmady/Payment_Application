@@ -1,0 +1,9 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `d:/FWD'
+gcc main.c "Card/card.c" "helper/help.c" "Terminal/terminal.c" "Server/server.c" "Application\app.c" -o application.o
+gcc main.c "Card/card.c" "helper/help.c" "Terminal/terminal.c" "Server/server.c" "Application\app.c" -o app.exe
+echo "--------- Program Size ---------"
+size application.o
+ 
+make.exe: Leaving directory `d:/FWD'
+ 

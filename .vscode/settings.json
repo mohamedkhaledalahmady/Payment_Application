@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "card.h": "c",
+        "stdio.h": "c",
+        "help.h": "c",
+        "data_types.h": "c",
+        "string.h": "c",
+        "terminal.h": "c"
+    }
+}

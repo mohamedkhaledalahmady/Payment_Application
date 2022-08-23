@@ -1,0 +1,6 @@
+modules:
+1. card
+2. terminal
+3. server
+4. application
+5. testing application
