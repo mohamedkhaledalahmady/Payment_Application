@@ -11,7 +11,7 @@
    * _helper_ : help.h & help.c   
    * _DataTypes_ : data_types.h 
    * _main.c_ : Main Application
-   * _Makefile_ : Makefile for reuuing application `compile, run, clean`
+   * _Makefile_ : Makefile for running application `compile` `run` `clean`
    
 > ## _Project Requirements_
 * Development environment preparation
