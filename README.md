@@ -8,8 +8,8 @@
    * _Terminal Folder_ : terminal.h & terminal.c
    * _Server Folder_ : server.h & server.c   
    * _Application Folder_ : app.h & app.c
-   * _helper_ : help.h & help.c   
-   * _DataTypes_ : data_types.h 
+   * _helper Folder_ : help.h & help.c   
+   * _DataTypes Folder_ : data_types.h 
    * _main.c_ : Main Application
    * _Makefile_ : Makefile for running application `compile` `run` `clean`
    
