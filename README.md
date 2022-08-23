@@ -20,7 +20,7 @@
 * Implement the server module
 * Implement the application
 * Testing the application
-
+![payment-flowchart](https://user-images.githubusercontent.com/67025780/186285913-a426ce4b-4698-4ac0-a74d-1257b90775aa.jpeg)
 > ## _Setup and running settings_
   * Download all project files 
   * After creation of new project in `VS Code` or any IDE, add all project files from your project options.
