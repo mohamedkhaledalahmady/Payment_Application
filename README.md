@@ -28,6 +28,6 @@
 > ## _Setup and running settings_
   * Download all project files 
   * After creation of new project in `VS Code` or any IDE, add all project files from your project options.
-  * open termianl, tehn just type `make compile` or 'make' only for compiling program
+  * open termianl, just type `make compile` or 'make' only for compiling program
   * `make run` to run program and enjoy :)
- 
+  * `make clean` to delete all objects files and executable file generated:)
